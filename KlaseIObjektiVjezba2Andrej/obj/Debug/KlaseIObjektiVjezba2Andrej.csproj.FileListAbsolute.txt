@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\bin\Debug\KlaseIObjektiVjezba2Andrej.exe.config
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\bin\Debug\KlaseIObjektiVjezba2Andrej.exe
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\bin\Debug\KlaseIObjektiVjezba2Andrej.pdb
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\obj\Debug\KlaseIObjektiVjezba2Andrej.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\obj\Debug\KlaseIObjektiVjezba2Andrej.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\obj\Debug\KlaseIObjektiVjezba2Andrej.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\obj\Debug\KlaseIObjektiVjezba2Andrej.exe
+C:\Users\ucenik\Documents\KlaseIObjektiVjezba2Andrej\obj\Debug\KlaseIObjektiVjezba2Andrej.pdb
